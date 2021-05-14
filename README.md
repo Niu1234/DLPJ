@@ -13,7 +13,7 @@ The repository builds a code for anomaly detection in surveillance videos using
 * Download the dataset(videos) [here](https://webpages.uncc.edu/cchen62/dataset.html).
 
 ### Run
-we have two models and two clients in this project: CNN3DClient and CRNNClient.
+we have two models and three clients in this project: CNN3DClient and CRNNClient and CRNNVarlenClient
 
 In Jupyter notebook or a seperate python file, import the client class and run.
 
